@@ -9,7 +9,7 @@
 
 今あるHDDを大事に使うために、バックアップスクリプトを修正します。
 
-![](assets/eye-catch.png)
+![](https://raw.githubusercontent.com/yKesamaru/rsync_home_backup/refs/heads/master/assets/eye-catch.png)
 
 ## 環境
 ```bash
